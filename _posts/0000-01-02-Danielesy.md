@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Alaska1
+Alaska is a big mountain
 Use the left arrow to go back!
